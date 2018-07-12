@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_From_EAP_To_TAP_Example1", "CSharp_From_EAP_To_TAP_Example1\CSharp_From_EAP_To_TAP_Example1.csproj", "{DCF5C6D6-7414-4332-A0CF-B865761F32CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF5C6D6-7414-4332-A0CF-B865761F32CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF5C6D6-7414-4332-A0CF-B865761F32CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF5C6D6-7414-4332-A0CF-B865761F32CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF5C6D6-7414-4332-A0CF-B865761F32CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E779D4AD-C250-4559-B39B-BB86C0BD6CA1}
+	EndGlobalSection
+EndGlobal
